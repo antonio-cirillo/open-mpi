@@ -32,7 +32,7 @@ int main(int argc, char* argv[]) {
             buffer[i] = rand() % MAX_INT_VALUE;
         }
 
-        for(int i = 0; i < n; i++) {
+        for(int i = 1; i < n; i++) {
             MPI_Send(buffer, size, MPI_INT, i, 100, MPI_COMM_WORLD);
         }
     
