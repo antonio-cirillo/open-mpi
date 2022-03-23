@@ -11,7 +11,7 @@ char-item.o:
 	mpicc -c char-item.c
 
 main.o :
-	mpicc -c main.c
+	mpicc -DMPI_TYPE=MPI_INT -c main.c
 
 mycollective.o :
 	mpicc -c mycollective.c
