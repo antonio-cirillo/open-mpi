@@ -28,7 +28,7 @@ int main(int argc, char* argv[]) {
         }
 
         int buffer[size];
-        for(int i = 0; i < n; i++) {
+        for(int i = 0; i < size; i++) {
             buffer[i] = rand() % MAX_INT_VALUE;
         }
 
