@@ -1,0 +1,385 @@
+
+---------------------------------------------------
+
+Test with 10 param...
+
+Test with 2 processors...
+Num param: 10
+Time in ms = 0.000071
+
+Test with 3 processors...
+Num param: 10
+Time in ms = 0.000038
+
+Test with 4 processors...
+Num param: 10
+Time in ms = 0.000052
+
+Test with 5 processors...
+Num param: 10
+Time in ms = 0.000133
+
+Test with 6 processors...
+Num param: 10
+Time in ms = 0.000184
+
+Test with 7 processors...
+Num param: 10
+Time in ms = 0.000202
+
+Test with 8 processors...
+Num param: 10
+Time in ms = 0.000169
+
+Test with 9 processors...
+Num param: 10
+Time in ms = 0.000149
+
+Test with 10 processors...
+Num param: 10
+Time in ms = 0.000991
+
+Test with 11 processors...
+Num param: 10
+Time in ms = 0.019470
+
+Test with 12 processors...
+Num param: 10
+Time in ms = 0.000533
+
+Test with 13 processors...
+Num param: 10
+Time in ms = 0.000357
+
+Test with 14 processors...
+Num param: 10
+Time in ms = 0.002548
+
+Test with 15 processors...
+Num param: 10
+Time in ms = 0.008076
+
+Test with 16 processors...
+Num param: 10
+Time in ms = 0.001154
+
+---------------------------------------------------
+
+Test with 50 param...
+
+Test with 2 processors...
+Num param: 50
+Time in ms = 0.000025
+
+Test with 3 processors...
+Num param: 50
+Time in ms = 0.000034
+
+Test with 4 processors...
+Num param: 50
+Time in ms = 0.000055
+
+Test with 5 processors...
+Num param: 50
+Time in ms = 0.000117
+
+Test with 6 processors...
+Num param: 50
+Time in ms = 0.000230
+
+Test with 7 processors...
+Num param: 50
+Time in ms = 0.000114
+
+Test with 8 processors...
+Num param: 50
+Time in ms = 0.000310
+
+Test with 9 processors...
+Num param: 50
+Time in ms = 0.000231
+
+Test with 10 processors...
+Num param: 50
+Time in ms = 0.000232
+
+Test with 11 processors...
+Num param: 50
+Time in ms = 0.000290
+
+Test with 12 processors...
+Num param: 50
+Time in ms = 0.000256
+
+Test with 13 processors...
+Num param: 50
+Time in ms = 0.000569
+
+Test with 14 processors...
+Num param: 50
+Time in ms = 0.000389
+
+Test with 15 processors...
+Num param: 50
+Time in ms = 0.000392
+
+Test with 16 processors...
+Num param: 50
+Time in ms = 0.000741
+
+---------------------------------------------------
+
+Test with 100 param...
+
+Test with 2 processors...
+Num param: 100
+Time in ms = 0.000098
+
+Test with 3 processors...
+Num param: 100
+Time in ms = 0.000123
+
+Test with 4 processors...
+Num param: 100
+Time in ms = 0.000071
+
+Test with 5 processors...
+Num param: 100
+Time in ms = 0.000081
+
+Test with 6 processors...
+Num param: 100
+Time in ms = 0.000110
+
+Test with 7 processors...
+Num param: 100
+Time in ms = 0.000078
+
+Test with 8 processors...
+Num param: 100
+Time in ms = 0.000127
+
+Test with 9 processors...
+Num param: 100
+Time in ms = 0.000285
+
+Test with 10 processors...
+Num param: 100
+Time in ms = 0.000441
+
+Test with 11 processors...
+Num param: 100
+Time in ms = 0.000651
+
+Test with 12 processors...
+Num param: 100
+Time in ms = 0.000666
+
+Test with 13 processors...
+Num param: 100
+Time in ms = 0.000599
+
+Test with 14 processors...
+Num param: 100
+Time in ms = 0.001012
+
+Test with 15 processors...
+Num param: 100
+Time in ms = 0.000857
+
+Test with 16 processors...
+Num param: 100
+Time in ms = 0.000847
+
+---------------------------------------------------
+
+Test with 250 param...
+
+Test with 2 processors...
+Num param: 250
+Time in ms = 0.000101
+
+Test with 3 processors...
+Num param: 250
+Time in ms = 0.000079
+
+Test with 4 processors...
+Num param: 250
+Time in ms = 0.000082
+
+Test with 5 processors...
+Num param: 250
+Time in ms = 0.000094
+
+Test with 6 processors...
+Num param: 250
+Time in ms = 0.000052
+
+Test with 7 processors...
+Num param: 250
+Time in ms = 0.000089
+
+Test with 8 processors...
+Num param: 250
+Time in ms = 0.000240
+
+Test with 9 processors...
+Num param: 250
+Time in ms = 0.000180
+
+Test with 10 processors...
+Num param: 250
+Time in ms = 0.000557
+
+Test with 11 processors...
+Num param: 250
+Time in ms = 0.000827
+
+Test with 12 processors...
+Num param: 250
+Time in ms = 0.001011
+
+Test with 13 processors...
+Num param: 250
+Time in ms = 0.001423
+
+Test with 14 processors...
+Num param: 250
+Time in ms = 0.000771
+
+Test with 15 processors...
+Num param: 250
+Time in ms = 0.002157
+
+Test with 16 processors...
+Num param: 250
+Time in ms = 0.001383
+
+---------------------------------------------------
+
+Test with 500 param...
+
+Test with 2 processors...
+Num param: 500
+Time in ms = 0.000143
+
+Test with 3 processors...
+Num param: 500
+Time in ms = 0.000155
+
+Test with 4 processors...
+Num param: 500
+Time in ms = 0.000077
+
+Test with 5 processors...
+Num param: 500
+Time in ms = 0.000083
+
+Test with 6 processors...
+Num param: 500
+Time in ms = 0.000179
+
+Test with 7 processors...
+Num param: 500
+Time in ms = 0.000067
+
+Test with 8 processors...
+Num param: 500
+Time in ms = 0.000109
+
+Test with 9 processors...
+Num param: 500
+Time in ms = 0.000165
+
+Test with 10 processors...
+Num param: 500
+Time in ms = 0.000519
+
+Test with 11 processors...
+Num param: 500
+Time in ms = 0.001136
+
+Test with 12 processors...
+Num param: 500
+Time in ms = 0.002872
+
+Test with 13 processors...
+Num param: 500
+Time in ms = 0.000726
+
+Test with 14 processors...
+Num param: 500
+Time in ms = 0.001542
+
+Test with 15 processors...
+Num param: 500
+Time in ms = 0.000679
+
+Test with 16 processors...
+Num param: 500
+Time in ms = 0.000876
+
+---------------------------------------------------
+
+Test with 1000 param...
+
+Test with 2 processors...
+Num param: 1000
+Time in ms = 0.000205
+
+Test with 3 processors...
+Num param: 1000
+Time in ms = 0.000187
+
+Test with 4 processors...
+Num param: 1000
+Time in ms = 0.000124
+
+Test with 5 processors...
+Num param: 1000
+Time in ms = 0.000113
+
+Test with 6 processors...
+Num param: 1000
+Time in ms = 0.000140
+
+Test with 7 processors...
+Num param: 1000
+Time in ms = 0.000143
+
+Test with 8 processors...
+Num param: 1000
+Time in ms = 0.000131
+
+Test with 9 processors...
+Num param: 1000
+Time in ms = 0.000365
+
+Test with 10 processors...
+Num param: 1000
+Time in ms = 0.000590
+
+Test with 11 processors...
+Num param: 1000
+Time in ms = 0.000534
+
+Test with 12 processors...
+Num param: 1000
+Time in ms = 0.000664
+
+Test with 13 processors...
+Num param: 1000
+Time in ms = 0.001189
+
+Test with 14 processors...
+Num param: 1000
+Time in ms = 0.001086
+
+Test with 15 processors...
+Num param: 1000
+Time in ms = 0.000636
+
+Test with 16 processors...
+Num param: 1000
+Time in ms = 0.002329
+
