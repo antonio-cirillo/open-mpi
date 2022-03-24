@@ -10,8 +10,10 @@ do
 
     for i in {2..16}
     do
+    
         echo "Test with $i processors..." >> result.txt
         mpirun -np $i --allow-run-as-root a.out $n >> result.txt
         echo "" >> result.txt
+    
     done
 done
