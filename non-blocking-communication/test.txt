@@ -1,258 +1,49 @@
-[Processor #0] - Init with: 20
-[Processor #1] - 20 + 93 = 113
-[Processor #2] - 113 + 93 = 206
-[Processor #3] - 206 + 93 = 299
-[Processor #4] - 299 + 93 = 392
-[Processor #0] - 392 + 93 = 485
-[Processor #1] - 485 + 10 = 495
-[Processor #2] - 495 + 10 = 505
-[Processor #2] - 565 + 30 = 595
-[Processor #3] - 505 + 10 = 515
-[Processor #4] - 515 + 10 = 525
-[Processor #4] - 625 + 30 = 655
-[Processor #4] - 688 + 1 = 689
-[Processor #3] - 595 + 30 = 625
-[Processor #3] - 687 + 1 = 688
-[Processor #0] - 525 + 10 = 535
-[Processor #0] - 655 + 30 = 685
-[Processor #0] - 689 + 1 = 690
-[Processor #1] - 535 + 30 = 565
-[Processor #1] - 685 + 1 = 686
-[Processor #1] - 690 + 4 = 694
-[Processor #2] - 686 + 1 = 687
-[Processor #4] - 702 + 4 = 706
-[Processor #3] - 698 + 4 = 702
-[Processor #0] - 706 + 4 = 710
-[Processor #1] - 710 + 7 = 717
-[Processor #2] - 694 + 4 = 698
-[Processor #2] - 717 + 7 = 724
-[Processor #4] - 731 + 7 = 738
-[Processor #3] - 724 + 7 = 731
-[Processor #1] - 745 + 34 = 779
-[Processor #1] - 915 + 99 = 1014
-[Processor #2] - 779 + 34 = 813
-[Processor #4] - 847 + 34 = 881
-[Processor #0] - 738 + 7 = 745
-[Processor #0] - 881 + 34 = 915
-[Processor #3] - 813 + 34 = 847
-[Processor #2] - 1014 + 99 = 1113
-[Processor #3] - 1113 + 99 = 1212
-[Processor #3] - Finish!
-[Processor #0] - 1311 + 99 = 1410
-[Processor #1] - 1410 + 52 = 1462
-[Processor #2] - 1462 + 52 = 1514
-[Processor #4] - 1212 + 99 = 1311
-[Processor #4] - Finish!
-[Processor #3] - Finish!
-[Processor #3] - 172 + 76 = 248
-[Processor #0] - Round(s): 8
-[Processor #0] - Finish!
-[Processor #0] - Init with: 20
-[Processor #1] - Finish!
-[Processor #1] - 20 + 76 = 96
-[Processor #2] - Finish!
-[Processor #2] - 96 + 76 = 172
-[Processor #4] - Finish!
-[Processor #4] - 248 + 76 = 324
-[Processor #0] - Round(s): 0
-[Processor #0] - Finish!
-[Processor #0] - Init with: 20
-[Processor #0] - 324 + 76 = 400
-[Processor #1] - Finish!
-[Processor #1] - 20 + 95 = 115
-[Processor #1] - 400 + 93 = 493
-[Processor #2] - Finish!
-[Processor #2] - 115 + 95 = 210
-[Processor #2] - 493 + 93 = 586
-[Processor #3] - Finish!
-[Processor #3] - 210 + 95 = 305
-[Processor #3] - 586 + 93 = 679
-[Processor #4] - Finish!
-[Processor #4] - 305 + 95 = 400
-[Processor #4] - 679 + 93 = 772
-[Processor #0] - Round(s): 1
-[Processor #0] - Finish!
-[Processor #1] - Finish!
-[Processor #1] - 20 + 0 = 20
-[Processor #2] - Finish!
-[Processor #0] - Init with: 20
-[Processor #0] - 400 + 95 = 495
-[Processor #0] - 772 + 93 = 865
+[Processor #0] - Init with: 0
+[Processor #1] - 0 + 50 = 50
+[Processor #0] - 200 + 50 = 250
 [Processor #0] - Round(s): 2
 [Processor #0] - Finish!
-[Processor #0] - Init with: 20
-[Processor #2] - 20 + 0 = 20
-[Processor #2] - 498 + 3 = 501
-[Processor #2] - 900 + 35 = 935
-[Processor #1] - 495 + 3 = 498
-[Processor #1] - 865 + 35 = 900
-[Processor #1] - Finish!
-[Processor #1] - 20 + 53 = 73
-[Processor #3] - Finish!
-[Processor #3] - 20 + 0 = 20
-[Processor #4] - Finish!
+[Processor #0] - Init with: 0
+[Processor #2] - 50 + 50 = 100
+[Processor #2] - 300 + 50 = 350
 [Processor #2] - Finish!
-[Processor #2] - 73 + 53 = 126
-[Processor #3] - 501 + 3 = 504
-[Processor #3] - 935 + 35 = 970
+[Processor #2] - 50 + 50 = 100
+[Processor #3] - 100 + 50 = 150
+[Processor #3] - 350 + 50 = 400
+[Processor #3] - Comunication on tag 100 closed!
 [Processor #3] - Finish!
-[Processor #3] - 126 + 53 = 179
-[Processor #4] - 20 + 0 = 20
-[Processor #4] - 504 + 3 = 507
-[Processor #0] - 20 + 0 = 20
-[Processor #0] - 507 + 3 = 510
-[Processor #0] - 1005 + 35 = 1040
-[Processor #0] - Round(s): 3
-[Processor #0] - Finish!
-[Processor #1] - 20 + 0 = 20
-[Processor #1] - 510 + 66 = 576
-[Processor #1] - 1040 + 6 = 1046
-[Processor #1] - Finish!
-[Processor #2] - 20 + 0 = 20
-[Processor #2] - 576 + 66 = 642
-[Processor #4] - 970 + 35 = 1005
+[Processor #3] - 100 + 50 = 150
+[Processor #4] - 150 + 50 = 200
 [Processor #4] - Finish!
-[Processor #4] - 179 + 53 = 232
-[Processor #4] - 20 + 0 = 20
-[Processor #4] - 708 + 66 = 774
-[Processor #4] - 1058 + 6 = 1064
-[Processor #2] - 1046 + 6 = 1052
+[Processor #4] - 150 + 50 = 200
+[Processor #1] - 250 + 50 = 300
+[Processor #1] - Finish!
+[Processor #1] - 0 + 50 = 50
+[Processor #1] - 250 + 50 = 300
+[Processor #4] - Finish!
+[Processor #4] - 150 + 50 = 200
+[Processor #0] - 200 + 50 = 250
+[Processor #0] - Round(s): 2
+[Processor #0] - Finish!
+[Processor #0] - Init with: 0
+[Processor #0] - 200 + 50 = 250
+[Processor #2] - 300 + 50 = 350
 [Processor #2] - Finish!
-[Processor #2] - 54 + 34 = 88
-[Processor #2] - 308 + 23 = 331
-[Processor #3] - 20 + 0 = 20
-[Processor #3] - 642 + 66 = 708
-[Processor #3] - 1052 + 6 = 1058
+[Processor #2] - 50 + 50 = 100
+[Processor #3] - 350 + 50 = 400
+[Processor #3] - Comunication on tag 101 closed!
 [Processor #3] - Finish!
-[Processor #3] - 88 + 34 = 122
-[Processor #3] - 331 + 23 = 354
-[Processor #0] - Init with: 20
-[Processor #0] - 232 + 53 = 285
-[Processor #1] - 20 + 34 = 54
-[Processor #1] - 285 + 23 = 308
-[Processor #4] - Finish!
-[Processor #4] - 122 + 34 = 156
-[Processor #4] - 354 + 23 = 377
-[Processor #1] - 20 + 24 = 44
-[Processor #1] - 840 + 51 = 891
-[Processor #1] - 1070 + 37 = 1107
+[Processor #3] - 100 + 50 = 150
 [Processor #1] - Finish!
-[Processor #1] - 20 + 45 = 65
-[Processor #1] - 190 + 29 = 219
-[Processor #1] - 400 + 21 = 421
-[Processor #2] - 44 + 24 = 68
-[Processor #2] - 891 + 51 = 942
-[Processor #2] - 1107 + 37 = 1144
-[Processor #2] - Finish!
-[Processor #2] - 65 + 45 = 110
-[Processor #2] - 219 + 29 = 248
-[Processor #0] - 20 + 0 = 20
-[Processor #0] - 774 + 66 = 840
-[Processor #0] - 1064 + 6 = 1070
-[Processor #0] - Round(s): 4
-[Processor #0] - Finish!
-[Processor #0] - Init with: 20
-[Processor #0] - 156 + 34 = 190
-[Processor #0] - 377 + 23 = 400
-[Processor #4] - 92 + 24 = 116
-[Processor #4] - 993 + 51 = 1044
-[Processor #4] - 1181 + 37 = 1218
-[Processor #4] - Finish!
-[Processor #4] - 155 + 45 = 200
-[Processor #4] - 277 + 29 = 306
-[Processor #4] - 463 + 21 = 484
-[Processor #3] - 68 + 24 = 92
-[Processor #3] - 942 + 51 = 993
-[Processor #3] - 1144 + 37 = 1181
+[Processor #1] - 0 + 50 = 50
+[Processor #1] - 250 + 50 = 300
+[Processor #1] - Finish!
+[Processor #3] - 350 + 50 = 400
+[Processor #3] - Comunication on tag 102 closed!
 [Processor #3] - Finish!
-[Processor #3] - 110 + 45 = 155
-[Processor #3] - 248 + 29 = 277
-[Processor #3] - 442 + 21 = 463
-[Processor #2] - 421 + 21 = 442
-[Processor #0] - 116 + 24 = 140
-[Processor #0] - 1044 + 51 = 1095
-[Processor #0] - 1218 + 37 = 1255
-[Processor #0] - Round(s): 5
-[Processor #0] - Finish!
-[Processor #0] - Init with: 20
-[Processor #0] - 200 + 45 = 245
-[Processor #0] - 306 + 29 = 335
-[Processor #1] - 140 + 75 = 215
-[Processor #1] - 1095 + 97 = 1192
-[Processor #1] - 1255 + 25 = 1280
-[Processor #1] - Finish!
-[Processor #1] - 20 + 30 = 50
-[Processor #2] - 215 + 75 = 290
-[Processor #2] - 1192 + 97 = 1289
-[Processor #2] - 1280 + 25 = 1305
-[Processor #1] - 245 + 90 = 335
-[Processor #1] - 335 + 100 = 435
-[Processor #1] - 505 + 85 = 590
-[Processor #0] - 484 + 21 = 505
-[Processor #3] - 290 + 75 = 365
-[Processor #3] - 1289 + 97 = 1386
-[Processor #3] - 1305 + 25 = 1330
-[Processor #3] - Finish!
-[Processor #3] - 80 + 30 = 110
-[Processor #3] - 425 + 90 = 515
-[Processor #3] - 535 + 100 = 635
-[Processor #3] - 675 + 85 = 760
-[Processor #2] - Finish!
-[Processor #2] - 50 + 30 = 80
-[Processor #2] - 335 + 90 = 425
-[Processor #2] - 435 + 100 = 535
-[Processor #2] - 590 + 85 = 675
-[Processor #2] - 581 + 66 = 647
-[Processor #2] - Finish!
-[Processor #2] - 1425 + 45 = 1470
-[Processor #1] - 515 + 66 = 581
-[Processor #1] - Finish!
-[Processor #1] - 1380 + 45 = 1425
-[Processor #1] - Finish!
-[Processor #1] - 20 + 37 = 57
-[Processor #4] - 365 + 75 = 440
-[Processor #4] - 1386 + 97 = 1483
-[Processor #4] - 1330 + 25 = 1355
 [Processor #4] - Finish!
-[Processor #4] - 110 + 30 = 140
-[Processor #4] - 515 + 90 = 605
-[Processor #4] - 635 + 100 = 735
-[Processor #4] - 760 + 85 = 845
-[Processor #0] - 440 + 75 = 515
-[Processor #0] - 1483 + 97 = 1580
-[Processor #0] - 1355 + 25 = 1380
-[Processor #0] - Round(s): 6
+[Processor #0] - Round(s): 2
 [Processor #0] - Finish!
-[Processor #0] - Init with: 20
-[Processor #0] - 140 + 30 = 170
-[Processor #0] - 605 + 90 = 695
-[Processor #0] - 735 + 100 = 835
-[Processor #0] - 845 + 85 = 930
-[Processor #2] - Finish!
-[Processor #2] - 57 + 37 = 94
-[Processor #2] - 215 + 45 = 260
-[Processor #2] - 722 + 27 = 749
-[Processor #2] - 907 + 72 = 979
-[Processor #2] - 948 + 18 = 966
-[Processor #3] - 647 + 66 = 713
-[Processor #3] - Finish!
-[Processor #3] - 1470 + 45 = 1515
-[Processor #3] - Finish!
-[Processor #1] - 170 + 45 = 215
-[Processor #1] - 695 + 27 = 722
-[Processor #1] - 835 + 72 = 907
-[Processor #1] - 930 + 18 = 948
-[Processor #4] - 713 + 66 = 779
-[Processor #4] - Finish!
-[Processor #4] - Finish!
-[Processor #0] - 779 + 66 = 845
-[Processor #0] - Round(s): 5
-[Processor #0] - Finish!
-[Processor #0] - Init with: 20
-[Processor #0] - Round(s): 0
-[Processor #0] - Finish!
-Average: 3.400000
-[Processor #1] - 845 + 46 = 891
-[Processor #1] - Finish!
-[Processor #2] - 891 + 46 = 937
+Average: 2.000000
+[Processor #2] - 300 + 50 = 350
 [Processor #2] - Finish!
