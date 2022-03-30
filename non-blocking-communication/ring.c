@@ -69,7 +69,7 @@ int main(int argc, char* argv[]) {
             printf("[Processor #%d] - %d + %d = ", rank, total, random);
             total += random;
             printf("%d\n", total);
-            fflush(stdin);
+            fflush(stdout);
 
             if(threshold > total) {
 
